@@ -1,0 +1,72 @@
+ [
+  {
+  "created": -449280,
+  "type": "IMG",
+  "data":        {"url":"https://pixabay.com/static/uploads/photo/2016/01/19/14/25/octagonal-pavilion-1148883_960_720.jpg"},
+  "user" :        {"name": "John", "country":"USA"}
+  },
+  {
+  "created": -311040,
+  "type": "IMG",
+  "user" :        {"name": "Max", "country":"Germany"}
+  },
+  {
+  "created": -18000,
+  "type": "img",
+  "data":        {"url":"https://pixabay.com/static/uploads/photo/2016/01/27/14/22/orange-1164504_960_720.jpg"},
+  "user" :        {"name": "Joana", "country":"UK"}
+  },
+  {
+  "created": -5,
+  "type": "IMG",
+  "data":        {"url":"https://pixabay.com/static/uploads/photo/2016/01/22/02/05/food-1155129_960_720.jpg"}
+  },
+  {
+  "created": -0,
+  "type": "IMG",
+  "data":        {"url":"https://pixabay.com/static/uploads/photo/2016/01/22/02/05/food-1155129_960_720.jpg"},
+  "user" :        {"name": "Max", "country":"Germany"}
+  },
+  {
+  "created": -5400,
+  "type": "IMG",
+  "user" :        {"name": "Max", "country":"Germany"}
+  },
+  {
+  "created": -10,
+  "type": "TEXT",
+  "data":        {"text":"Technology is anything that wasn’t around when you were born."},
+  "user" :        {"name": "Alan Kay", "country":"USA"}
+  },
+  {
+  "created": -17280,
+  "type": "text",
+  "data":        {"text":"It has become appallingly obvious that our technology has exceeded our humanity."},
+  "user" :        {"name": "Albert Einstein", "country":"Germany"}
+  },
+  {
+  "created": -280800,
+  "type": "TEXT",
+  "data":        {"text":"The real danger is not that computers will begin to think like men, but that men will begin to think like computers."},
+  "user" :        {"name": "Sydney Harris", "country":"USA"}
+  },
+  {
+  "created": 0
+  },
+  {
+  "type": "TEXT",
+  "data":        {"text":"The real danger is not that computers will begin to think like men, but that men will begin to think like computers."},
+  "user" :        {"name": "Sydney Harris", "country":"USA"}
+  },
+  {
+  "created": 129600,
+  "type": "TEXT",
+  "user" :        {"name": "Sydney Harris", "country":"USA"}
+  },
+  {
+  "created": -86400,
+  "type": "text",
+  "data":        {"text":"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."},
+  "user" :        {"name": "Elbert Hubbard", "country":"Ireland"}
+  }
+  ]
